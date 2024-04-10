@@ -58,7 +58,7 @@ global.ownername = process.env.SUDO_NAME || 'Malik Sahab' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
@@ -66,9 +66,9 @@ global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+global.packname = process.env.PACK_NAME || "Technical Malik Official"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
+global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
 //________________________________________________________________________________________________________
